@@ -10,5 +10,3 @@ Espanol weon
 
 ## interesting trivia
 la wea cuatica!
-https://es.wikipedia.org/wiki/Chile
-
